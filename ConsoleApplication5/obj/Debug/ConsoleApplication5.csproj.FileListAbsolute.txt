@@ -1,0 +1,34 @@
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Topshelf.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Topshelf.xml
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Schedulerr.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SimpleInjector.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Quartz.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Core.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.dll
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Schedulerr.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SimpleInjector.xml
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Quartz.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Quartz.xml
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Core.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Core.xml
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.pdb
+c:\users\caroll hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.xml
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\quartz_jobs.xml
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.dll
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\log4net.dll
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.pdb
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Common.Logging.Log4Net1211.xml
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\log4net.xml
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Topshelf.Log4Net.xml
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Files.dll
+C:\Users\Caroll Hernandez\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\MyService.Files.pdb
+C:\Users\Intel\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Intel\Desktop\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Intel\Desktop\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

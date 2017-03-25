@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+
+  <schedule>
+
+    <job>
+      <name>FolderWatcherJob</name>
+      <group>ReturnMailGroup</group>
+      <description>Watcher for Return Mail Drop Folder</description>
+      <job-type>MyService.Files.FileJob, MyService.Files</job-type>
+      <durable>true</durable>
+      <recover>true</recover>
+    </job>
+    <trigger>
+      <cron>
+        <name>FolderWatcherTrigger</name>
+        <group>ReturnMailGroup</group>
+        <description>Cron expression makes job run every minute</description>
+        <job-name>FolderWatcherJob</job-name>
+        <job-group>ReturnMailGroup</job-group>
+        <misfire-instruction>SmartPolicy</misfire-instruction>
+        <cron-expression>0 0/1 * 1/1 * ? *</cron-expression>
+      </cron>
+    </trigger>
+
+  </schedule>
+
+</job-scheduling-data>
